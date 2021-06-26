@@ -5,4 +5,4 @@ In this folder you will find the Python Essentials Training's tests done in clas
 
 I hope they will be useful for you.
 
-HIT-at-GH
+HIT at GH
